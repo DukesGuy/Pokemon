@@ -1,4 +1,4 @@
-# Pokemon
+# Pokemon ![alt text](https://www.vhv.rs/dpng/d/210-2100088_meme-pikachu-sorprendido-pikachu-sticker-hd-png-download.png)
 Basic Pokemon battle simulator for Java console. 
 
 ## Description
