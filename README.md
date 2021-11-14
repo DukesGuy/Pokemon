@@ -8,4 +8,6 @@ A wild Pokemon appears! You have the option to either fight, attempt to capture,
 
 * ![alt text](https://i.postimg.cc/XrygD50Y/Screen-Shot-2021-11-13-at-9-50-15-PM.png)
 
+* ![alt text](https://i.postimg.cc/Jhq7GFwK/Screen-Shot-2021-11-13-at-10-01-24-PM.png)
+
 * ![alt text](https://i.postimg.cc/hfYrrr6Y/Screen-Shot-2021-11-13-at-9-49-46-PM.png)
