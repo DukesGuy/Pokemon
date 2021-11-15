@@ -1,4 +1,4 @@
-# Pokemon
+# Pokémon
 Basic Pokemon battle simulator for Java console. 
 
 ## Description
