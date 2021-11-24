@@ -13,3 +13,7 @@ A wild Pokemon appears! You have the option to either fight, attempt to capture,
 * ![alt text](https://i.postimg.cc/Jhq7GFwK/Screen-Shot-2021-11-13-at-10-01-24-PM.png)
 
 * ![alt text](https://i.postimg.cc/hfYrrr6Y/Screen-Shot-2021-11-13-at-9-49-46-PM.png)
+
+* ![alt text](https://i.postimg.cc/c1h9vQtG/Screen-Shot-2021-11-23-at-9-06-47-PM.png)
+
+* ![alt text](https://i.postimg.cc/Prq6YP1p/Screen-Shot-2021-11-23-at-9-07-26-PM.png)
