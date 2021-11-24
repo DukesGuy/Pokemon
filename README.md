@@ -14,7 +14,7 @@ A wild Pokemon appears! You have the option to either fight, attempt to capture,
 
 ![alt text](https://i.postimg.cc/hfYrrr6Y/Screen-Shot-2021-11-13-at-9-49-46-PM.png)
 
-## Update
+## GUI Update
 
 ![alt text](https://i.postimg.cc/c1h9vQtG/Screen-Shot-2021-11-23-at-9-06-47-PM.png)
 
