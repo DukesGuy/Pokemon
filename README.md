@@ -16,7 +16,7 @@ A wild Pokemon appears! You have the option to either fight, attempt to capture,
 
 ## GUI Update
 
-![] (PokemonGIF.gif)
+![Pokemon] (PokemonGIF.gif)
 
 ![alt text](https://i.postimg.cc/c1h9vQtG/Screen-Shot-2021-11-23-at-9-06-47-PM.png)
 
