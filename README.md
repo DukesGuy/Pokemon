@@ -7,7 +7,7 @@ A wild Pokémon appears! You have the option to either fight, attempt to capture
 
 **UPDATE** : Implemented Java Swing functionality to display game as graphical user interface. Included a title screen and play again option.
 
-## Running on Console
+## Running on Console (old)
 
 ![alt text](https://i.postimg.cc/XrygD50Y/Screen-Shot-2021-11-13-at-9-50-15-PM.png)
 
