@@ -6,7 +6,7 @@ A wild Pokemon appears! You have the option to either fight, attempt to capture,
 
 **UPDATE** : Modified Pokemon.java file to now be implemented as a graphical user interface. Game will now also now have a title screen and play again option.
 
-## Application
+## Running on Console
 
 ![alt text](https://i.postimg.cc/XrygD50Y/Screen-Shot-2021-11-13-at-9-50-15-PM.png)
 
@@ -14,10 +14,7 @@ A wild Pokemon appears! You have the option to either fight, attempt to capture,
 
 ![alt text](https://i.postimg.cc/hfYrrr6Y/Screen-Shot-2021-11-13-at-9-49-46-PM.png)
 
-## GUI Update
+## GUI Demo
 
-![Pokemon] (PokemonGIF.gif)
+![PokemonGIF](https://user-images.githubusercontent.com/90816184/148744223-78245002-2e61-45e5-83b7-be277316f9d6.gif)
 
-![alt text](https://i.postimg.cc/c1h9vQtG/Screen-Shot-2021-11-23-at-9-06-47-PM.png)
-
-![alt text](https://i.postimg.cc/Prq6YP1p/Screen-Shot-2021-11-23-at-9-07-26-PM.png)
