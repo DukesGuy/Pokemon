@@ -1,8 +1,8 @@
 # Pokémon
-Basic Pokémon battle simulator using Java. 
+Pokémon battle simulator using Java Swing. 
 
 ## Description
-A wild Pokémon appears! You have the option to either fight, attempt to capture, or if you're not up for the challenge... run away. Each Pokémon starts with a randomly generated health amount. If you choose to attack, there are three different attacks available: Thunderbolt, Quick Attack, and Tackle. Each attack has a different range of damage that it can inflict on the Pokémon. If you decide you want to take your chances catching the Pokémon, the odds of catching it increase the less health it has. On the other hand, the Pokémon will also attack you after every turn so try your best to catch the Pokémon before you run out of health!
+A wild Pokémon appears! You have the option to either fight, throw a pokéball, or if you're not up for the challenge... run away. Each Pokémon starts with a randomly generated health amount (25-50). If you choose to attack, there are three different attacks available: Thunderbolt, Quick Attack, and Tackle. Each attack has a different range of damage that it can inflict on the Pokémon. If you decide you want to take your chances catching the Pokémon, the odds of catching it increase the less health it has. On the other hand, the Pokémon will also attack you after every turn so try your best to catch the Pokémon before you run out of health!
 
 
 **UPDATE** : Implemented Java Swing functionality to display game as graphical user interface. Included a title screen and play again option. Added separate class files for code maintainability.
